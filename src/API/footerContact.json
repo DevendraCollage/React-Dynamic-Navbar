@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Rajkot, Gujrat"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": 1234512345
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "dev@contact.com"
+  }
+]
